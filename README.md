@@ -9,8 +9,8 @@ Olá, eu sou Carine, estudante de Desenvolvimento Web e Análise de Dados! 🖱�
 
 <div align="center" >
   <img
-      width="50%"
-      src="giphy.gif"
+      width="25%"
+      src="gifmaker_me.gif"
       alt="i-am-programming"
      />
 
