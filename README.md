@@ -1,7 +1,5 @@
 Olá, eu sou Carine, estudante de Desenvolvimento Web! 🖱️ 🫶🏼
 
-- Atualmente estou aprendendo: JavaScript, HTML, CSS, Python e SQL <br/>
-- Curiosidade: A tecnologia, os esportes e a vida me encantam!  🤍 ✨ <br/>
 </br>
 
 <div align="center" >
