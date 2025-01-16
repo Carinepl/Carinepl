@@ -9,12 +9,12 @@
 
 ### Sobre mim  
 💻 Atualmente estagiando na **Sangati Berga**, uma empresa referência em soluções inovadoras para o setor industrial.  
-🚀 Experiência em desenvolvimento backend utilizando tecnologias como:  
+   Experiência em desenvolvimento backend utilizando tecnologias como:  
 - **JavaScript** | **TypeScript** | **Node.js** | **Express.js**  
 - **PostgreSQL** | **TypeORM** | **Multer**  
 
-🎯 Meu foco é criar soluções eficientes e escaláveis, desenvolvendo habilidades que geram resultados de impacto.  
-📚 Sempre buscando aprimorar meus conhecimentos e explorar novas ferramentas no universo do desenvolvimento.  
+📚 Meu foco é criar soluções eficientes e escaláveis, desenvolvendo habilidades que geram resultados de impacto.  
+  Sempre buscando aprimorar meus conhecimentos e explorar novas ferramentas no universo do desenvolvimento.  
 
 ---
 
