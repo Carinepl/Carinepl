@@ -2,7 +2,7 @@
 ### Estudante de Desenvolvimento Web e apaixonada por tecnologia! 🖱️ 🫶🏼  
 
 <div align="center"> 
-  <img width="25%" src="gifmaker_me.gif" alt="i-am-programming" /> 
+ 
 </div>
 
 ---
