@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" style="color: #fff;">
-  Olá, eu sou a Carine! 🖤 🐱
+  Olá, eu sou a Carine! 
 </h1>
 
 <p align="center">
@@ -36,12 +36,6 @@
 
 ---
 
-## Vamos nos conectar?
-
-<p align="center">
-  <a href="mailto:carinepl@gmail.com"><img src="https://img.shields.io/badge/GMAIL-22272e?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/carinepl"><img src="https://img.shields.io/badge/LINKEDIN-22272e?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
 
 ---
 
